@@ -41,3 +41,34 @@ Make sure you have Node.js and Git installed on your system.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/trusted-platform-bd.git](https://github.com/your-username/trusted-platform-bd.git)
+### ৩. প্রজেক্ট ফোল্ডারে প্রবেশ করুন:
+cd trusted-platform-bd
+
+### ৪. প্রয়োজনীয় প্যাকেজ বা ডিপেন্ডেন্সি ইনস্টল করুন:
+npm install
+
+### ৫. প্রজেক্ট চালু বা রান করুন:
+npm start
+# অথবা 
+npm run dev
+
+### ৬. ব্রাউজার খুলুন:
+আপনার ব্রাউজার (Chrome/Firefox) খুলে এই লিঙ্কে যান: http://localhost:3000
+
+---
+
+## 🌐 লাইভ ওয়েবসাইট
+আমাদের অফিশিয়াল মার্কেটপ্লেস ভিজিট করুন:  
+👉 [www.trustedplatform.bd.com](https://www.trustedplatform.bd.com)
+
+---
+
+## 📄 লাইসেন্স
+এই প্রজেক্টটি MIT লাইসেন্সের অধীনে নিবন্ধিত। বিস্তারিত জানতে [LICENSE](LICENSE) ফাইলটি দেখুন।
+
+---
+
+## 📞 যোগাযোগ ও সাপোর্ট
+যেকোনো প্রসেসিং, ব্যবসায়িক আলোচনা বা সহায়তার জন্য:
+- **ওয়েবসাইট:** www.trustedplatform.bd.com
+- **ইমেইল:** support@trustedplatform.bd.com
